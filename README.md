@@ -7,6 +7,9 @@ Kofix Quickstart to speed up project
 ## Web Components / JS
 
 ## Android Studio
+- [List Of Cool Libraries](https://github.com/wasabeef/awesome-android-libraries)
+- [Awesome Android UI](https://github.com/wasabeef/awesome-android-ui)
+- [Android Arsenal](https://android-arsenal.com/)
 
 ## iOS Xcode
 
@@ -17,5 +20,8 @@ Kofix Quickstart to speed up project
 - [UTP Class: To Do List App](https://github.com/nazmi69/ionic-todoList-app-utp)
 
 ## Laravel Scaffold
+- [Boiletplate JWT+Dingo+CORS](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
+- [OmniPay-Laravel Payment Gateway](https://github.com/thephpleague/omnipay)
+- [Laratrust-User+Roles+Permission](http://laratrust.readthedocs.io/en/3.1/)
 
 ## Ruby On Rails Scaffold
