@@ -3,6 +3,7 @@ Kofix Quickstart to speed up project
 
 ## Web Design / CSS
 - [Materialize CSS](http://materializecss.com/)
+- [List of Cool JS and CSS](https://www.javascripting.com/)
 
 ## Web Components / JS
 
