@@ -41,6 +41,8 @@ Kofix Quickstart to speed up project
 
 ## Jquery Plugins
 
+## Core ORM
+- [Doctrine](http://www.doctrine-project.org/)
 
 ## PHP API
 - [Carbon](http://carbon.nesbot.com/) ~ Time/Clock
