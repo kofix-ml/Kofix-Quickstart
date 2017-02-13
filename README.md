@@ -4,6 +4,7 @@ Kofix Quickstart to speed up project
 ## Web Design / CSS
 - [Materialize CSS](http://materializecss.com/)
 - [List of Cool JS and CSS](https://www.javascripting.com/)
+- [mdBootstrap](https://mdbootstrap.com/)
 
 ## Web Components / JS
 
@@ -30,3 +31,22 @@ Kofix Quickstart to speed up project
 ## React Native
 - [React Native Hello World](https://facebook.github.io/react/docs/hello-world.html)
 - [React Native Easy UI](http://nativebase.io/)
+
+## Python device-kit/tools
+
+## Server script
+- [Nexxacopy](https://github.com/neonexxa/nexxacopy) a bash copy script for server migration
+
+## Jquery Plugins
+
+
+## PHP API
+- [Carbon](http://carbon.nesbot.com/) ~ Time/Clock
+- [PHPOffice](https://github.com/PHPOffice) ~ PHP Office library
+
+## JS API
+- [Chartjs](http://www.chartjs.org/) ~ Chart/Graph
+- [Momentjs](https://momentjs.com/) ~ Time/Clock
+- [GoogleMAP](https://developers.google.com/maps/) - Google MAP API
+- [WazeMAP/Showtheway](https://showtheway.io/) - Show the way API
+
