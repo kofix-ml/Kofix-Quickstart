@@ -34,8 +34,9 @@ Kofix Quickstart to speed up project
 
 ## Python device-kit/tools
 
-## Server script
-- [Nexxacopy](https://github.com/neonexxa/nexxacopy) a bash copy script for server migration
+## Bash script
+- [Nexxacopy](https://github.com/neonexxa/nexxacopy) ~ Bash Script for server migration 
+- [ForgeRecipes](http://forgerecipes.com/) ~ Bash Scripts for Laravel Forge
 
 ## Jquery Plugins
 
@@ -50,3 +51,6 @@ Kofix Quickstart to speed up project
 - [GoogleMAP](https://developers.google.com/maps/) - Google MAP API
 - [WazeMAP/Showtheway](https://showtheway.io/) - Show the way API
 
+## Web Server
+- [Harpjs](https://harpjs.com/docs/quick-start) - Static web server 
+- [Laravel Forge](https://forge.laravel.com/) - Instant PHP server
