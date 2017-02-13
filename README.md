@@ -21,10 +21,11 @@ Kofix Quickstart to speed up project
 - [UTP Class: Feeder App](https://github.com/nazmi69/ionic-feeder-app-utp)
 - [UTP Class: To Do List App](https://github.com/nazmi69/ionic-todoList-app-utp)
 
-## Laravel Scaffold
+## Laravel Scaffold/Plugins
 - [Boiletplate JWT+Dingo+CORS](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 - [OmniPay-Laravel Payment Gateway](https://github.com/thephpleague/omnipay)
 - [Laratrust-User+Roles+Permission](http://laratrust.readthedocs.io/en/3.1/)
+- [Mongodb-Laravel database](https://github.com/jenssegers/Laravel-MongoDB)
 
 ## Ruby On Rails Scaffold
 
