@@ -55,3 +55,7 @@ Kofix Quickstart to speed up project
 ## Web Server
 - [Harpjs](https://harpjs.com/docs/quick-start) - Static web server 
 - [Laravel Forge](https://forge.laravel.com/) - Instant PHP server
+
+## Icons 
+- [Fontawesome](http://fontawesome.io/icons/)
+- [Materialicon](https://material.io/icons/)
