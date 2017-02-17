@@ -17,6 +17,7 @@ Kofix Quickstart to speed up project
 
 ## PHP Native Boilerplate
 - [Simple Crud](https://github.com/neonexxa/crudnative)
+- [Simple Auth](https://github.com/neonexxa/simpleauthphp)
 
 ## Ionic Hybrid App
 - [Ionic Framework](http://ionicframework.com/docs/components/)
