@@ -27,6 +27,7 @@ Kofix Quickstart to speed up project
 - [UTP Class: To Do List App](https://github.com/nazmi69/ionic-todoList-app-utp)
 
 ## Laravel Scaffold/Plugins
+- [Debugbar](https://github.com/barryvdh/laravel-debugbar)
 - [Boiletplate JWT+Dingo+CORS](https://github.com/francescomalatesta/laravel-api-boilerplate-jwt)
 - [OmniPay-Laravel Payment Gateway](https://github.com/thephpleague/omnipay)
 - [Laratrust-User+Roles+Permission](http://laratrust.readthedocs.io/en/3.1/)
