@@ -33,6 +33,11 @@ Kofix Quickstart to speed up project
 - [Laratrust-User+Roles+Permission](http://laratrust.readthedocs.io/en/3.1/)
 - [Mongodb-Laravel database](https://github.com/jenssegers/Laravel-MongoDB)
 
+### image-laravel 
+- [Laravel Glide](https://github.com/spatie/laravel-glide)
+- [Laravel Pdf-Image](https://github.com/spatie/pdf-to-image)
+- [TesseractOCR](https://github.com/thiagoalessio/tesseract-ocr-for-php)
+
 ## Ruby On Rails Scaffold
 
 ## React Native
